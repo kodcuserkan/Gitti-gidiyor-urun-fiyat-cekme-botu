@@ -1,4 +1,4 @@
-# Gitti-gidiyor-r-n-fiyat-ekme-botu
+# Gitti-gidiyor-urun-fiyat-cekme-botu
 
 Projeyi clone ettikten sonra .env dosyanızı oluşturun ve içeriği şu şekide olsun: 
 
